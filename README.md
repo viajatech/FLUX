@@ -3,7 +3,7 @@ https://github.com/lllyasviel/stable-diffusion-webui-forge/releases
 ----
 ----
 Descarga el modelo sin censura STOIQO en Google drive;
-https://drive.google.com/drive/folders/1rh9WA4cHKd_GvlQmbK7tVH0WWTnz10_J?usp=drive_link
+(No disponible por el momento)
 ----
 Descarga el modelo sin censura STOIQO en Civit A.I;
 https://civitai.com/models/161068?modelVersionId=869391
