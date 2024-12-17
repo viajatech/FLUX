@@ -27,6 +27,7 @@ RAM; 32/33GB RAM (16GB ram hará que se tarde más el proceso de renderización 
 Almacenamiento; SSD/NVMe 3.0/4.0 en adelante al menos 23GB de espacio disponible libre (2GB WEBUI FORGE + 21GB MODELO FLUX STOIQO)
 
 En resumen el programa funciona con el Hardware que tengas, pero lo ideal sería; GPU DE 16VRAM,32 GB RAM,CPU DE 8 NÚCLEOS, NVMe 4.0.
+
 ------
 Tienes que instalar Python. actualmente la versión es la 3.10.6 puedes descargar Python en; https://www.python.org/downloads/release/python-3106/  (https://www.python.org/ftp/python/3.10.6/python-3.10.6-amd64.exe)
 
