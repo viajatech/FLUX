@@ -21,6 +21,6 @@ VRAM; Flexible (Puedes elegir cuantos VRAM utilizas en la sección de GPU weight
 
 RAM; 32/33GB RAM (Menos ram hará que se tarde más el proceso de renderización)
 
-Almacenamiento; SSD/NVMe 3.0/4.0 en adelante al menos 100GB de espacio. 
+Almacenamiento; SSD/NVMe 3.0/4.0 en adelante al menos 2GB de espacio (2GB WEBUI FORGE + 21GB MODELO FLUX STOIQO)
 
 ------
