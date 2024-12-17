@@ -15,12 +15,12 @@ https://huggingface.co/black-forest-labs/FLUX.1-dev
 ----
 Requisitos Mínimos;
 
-CPU: 4 Núcleos
+CPU: 4 Núcleos (incluso 2 núcleos si no te importa el tiempo) 
 
 VRAM; Flexible (Puedes elegir cuantos VRAM utilizas en la sección de GPU weights MB)
 
 RAM; 32/33GB RAM (Menos ram hará que se tarde más el proceso de renderización)
 
-Almacenamiento; SSD/NVMe 3.0/4.0 en adelante al menos 2GB de espacio (2GB WEBUI FORGE + 21GB MODELO FLUX STOIQO)
+Almacenamiento; SSD/NVMe 3.0/4.0 en adelante al menos 23GB de espacio disponible libre (2GB WEBUI FORGE + 21GB MODELO FLUX STOIQO)
 
 ------
