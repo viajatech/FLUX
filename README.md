@@ -1,3 +1,6 @@
+Video Tutorial;
+https://www.youtube.com/shorts/IjCrbIqfJQw
+--------
 Descarga FLUX Web UI Forge; 
 https://github.com/lllyasviel/stable-diffusion-webui-forge/releases
 ----
