@@ -24,3 +24,10 @@ RAM; 32/33GB RAM (Menos ram hará que se tarde más el proceso de renderización
 Almacenamiento; SSD/NVMe 3.0/4.0 en adelante al menos 23GB de espacio disponible libre (2GB WEBUI FORGE + 21GB MODELO FLUX STOIQO)
 
 ------
+Tienes que instalar Python. actualmente la versión es la 3.10.6 puedes descargar Python en; https://www.python.org/downloads/release/python-3106/ 
+Cuando lo instales recuerda darle click en la casilla; add python 3.10 to PATH (agregar python 3.10 al PATH). 
+Listo, disfruta de FLUX!!
+saludos; Viaja Tech! 
+------
+
+
